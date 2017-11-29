@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"Filter Lines",
+		"HexViewer",
+		"Log Highlight",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Python PEP8 Autoformat"
+	]
+}
