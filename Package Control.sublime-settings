@@ -7,15 +7,22 @@
 	[
 		"A File Icon",
 		"Anaconda",
+		"AutoFileName",
+		"Behat Snippets",
+		"Cucumber",
+		"dired",
+		"Dracula Color Scheme",
+		"FileDiffs",
 		"Filter Lines",
-		"HexViewer",
 		"Log Highlight",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"Material Theme",
 		"Package Control",
-		"PackageResourceViewer",
 		"Pretty JSON",
-		"Python PEP8 Autoformat"
+		"PyRefactor",
+		"Python Breakpoints",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"SublimeCodeIntel",
+		"Text Pastry",
+		"TrailingSpaces"
 	]
 }
